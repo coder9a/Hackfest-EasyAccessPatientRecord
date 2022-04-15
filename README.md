@@ -1,7 +1,7 @@
 # Hackfest-EasyAccessPatientRecord
 
 ## Introduction
-This application that can be used by doctors and patients. The application provides role-based access to doctors, patients, and admin. All the medical records of patients are stored securely. Once a record is created and saved then it can be accessed by both patients and doctors. Doctors can log in to view all the patient’s profiles, and add prescriptions to them. The Doctor can also view all the registered medicines on the portal along with their details. The patients can view all the doctors. A patient's record can only be viewed either by the doctor or the patient itself.
+This application can be used by doctors and patients. The application provides role-based access to doctors, patients, and admin. All the medical records of patients are stored securely. Once a record is created and saved then it can be accessed by both patients and doctors. Doctors can log in to view all the patient’s profiles, and add prescriptions to them. The Doctor can also view all the registered medicines on the portal along with their details. The patients can view all the doctors. A patient's record can only be viewed either by the doctor or the patient itself.
 
 ## Project Overview
 1. **Home Page** is a page that displays some basic stats about the website and helps in welcoming the user to a universal dashboard that has direct links to various personalized sections of the website.
